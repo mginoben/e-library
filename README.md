@@ -9,4 +9,8 @@ This application was developed using PHP language, HTML/CSS, and Bootstrap 5 for
 - E-book management
 - Transaction history report
 
+Note:
+
+Extract .zip files to the same directory.
+
 
