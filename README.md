@@ -6,7 +6,7 @@ This application was developed using PHP language, HTML/CSS, and Bootstrap 5 for
 ### Program processes:
 - Account management
 - E-book reservations
-- E-book uploads
-- E-book browsing
+- E-book management
+- Transaction history report
 
 
